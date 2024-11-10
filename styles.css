@@ -8,10 +8,15 @@
 .table-3{
 	border-color:solid black;
 	border-spacing:1pxl solid;
-	padding:solid 1pxl;
+	padding:1pxl;
 }
 .table-1{
 	border-color:solid black;
-	border-spacing:solid 1pxl;
-	padding: solid 1pxl;
+	border-spacing: 1pxl solid;
+	padding: 1pxl solid;
+}
+.table-2{
+	border-color:solid black;
+	border-spacing: 1pxl solid;
+	padding: 1pxl solid;
 }
