@@ -17,7 +17,8 @@
 	cellpadding: 1px;
 }
 #table-3{
-	border: 1px solid black;
+	border: 1px inset;
 	border-spacing: 1px;
-	cellpadding:1px;
+	cellpadding:10px;
+	
 }
