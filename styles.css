@@ -6,10 +6,9 @@
 	text-align: right;
 }
 #table-1{
-    border:1px solid black;
     border-spacing: 1px;
 	width:600px;
-	border-collapse:black;
+	border:1px collapseb lack;
 	height:50px;
     cellpadding:1px;
 }
@@ -25,5 +24,6 @@
 	border: 1px inset;
 	border-spacing: 1px;
 	cellpadding:10px;
+	border-style:collapse;
 	
 }
