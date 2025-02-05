@@ -8,7 +8,7 @@
 #table-1{
     border-spacing: 1px;
 	width:600px;
-	border:1px collapseb lack;
+	border:1px solid rgb(0, 0, 0);
 	height:50px;
     cellpadding:1px;
 }
