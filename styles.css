@@ -1,4 +1,11 @@
 /*  your css code here. If applicable */
+h1{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	font-size:15px;
+	margin-bottom:0;
+}
 .center{
 	text-align: center;	
 }
@@ -12,9 +19,6 @@
 	height:50px;
 	border-style:collapse;
    cellpadding: 1px;
-}
-#t11{
-	border:1px inset rgb(0,0,0);
 }
 
 #table-2{
