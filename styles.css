@@ -13,8 +13,9 @@ h1{
 	text-align: right;
 }
 #table-1{
-	border:1px solid rgb(0,0,0);
+	border:1px inset rgb(0,0,0);
     border-spacing: 1px;
+	color:black;
 	width:600px;
 	height:50px;
 	border-style:collapse;
